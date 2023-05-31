@@ -4,13 +4,13 @@ import { useState } from 'react';
 import Menu from './Menu';
 import Categories from './Categories';
 
-const allCategories = ['all', ...new Set(menu.map((item) => item.category))];
+const allCategories = ['Tous', ...new Set(menu.map((item) => item.category))];
 
 const App = () => {
   const [menuItems, setMenuItems] = useState(menu);
   const [categories, setCategories] = useState(allCategories);
   const filterItems = (category) => {
-    if (category === 'all') {
+    if (category === 'Tous') {
       setMenuItems(menu);
       return;
     }
@@ -20,7 +20,7 @@ const App = () => {
   return (
     <main>
       <section className="menu">
-        <Title text="our menu" />
+        <Title text="Les Plans" />
         <Categories categories={categories} filterItems={filterItems} />
         <Menu items={menuItems} />
       </section>
