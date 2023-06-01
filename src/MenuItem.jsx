@@ -4,8 +4,8 @@ const MenuItem = ({ img, title, loc }) => {
       <img src={img} alt={title} className="img" />
       <div className="item-info">
         <header>
-          <h5>{title}</h5>
           <span className="item-price">{loc}</span>
+          <h5>{title}</h5>
         </header>
       </div>
     </article>
