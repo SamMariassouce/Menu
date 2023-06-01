@@ -159,7 +159,7 @@ const menu = [
     title: 'Extincteurs',
     category: 'R+4',
     loc: 'R+4',
-    img: '/images/item-5.jpeg',
+    img: '/images/Bat4 Extincteurs.jpg',
   },
   {
     id: 24,
