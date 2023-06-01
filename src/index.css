@@ -241,6 +241,17 @@ ul {
 
 /* title */
 
+.logo {
+  text-align: left;
+  margin: 0 0 4rem 0;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+.logo-img {
+  width: 12rem;
+}
 .title {
   text-align: center;
 }

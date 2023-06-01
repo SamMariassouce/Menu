@@ -3,6 +3,7 @@ import menu from './data';
 import { useState } from 'react';
 import Menu from './Menu';
 import Categories from './Categories';
+import Logo from './Logo';
 
 const allCategories = ['Tous', ...new Set(menu.map((item) => item.category))];
 
@@ -20,6 +21,7 @@ const App = () => {
   return (
     <main>
       <section className="menu">
+        <Logo />
         <Title text="Les Plans" />
         <Categories categories={categories} filterItems={filterItems} />
         <Menu items={menuItems} />
