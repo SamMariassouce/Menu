@@ -166,7 +166,7 @@ const menu = [
     title: 'Détecteurs',
     category: 'R+4',
     loc: 'R+4',
-    img: '/images/item-2.jpeg',
+    img: '/images/Bat4 Dai.jpg',
   },
 ];
 export default menu;
