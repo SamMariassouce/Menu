@@ -53,14 +53,14 @@ const menu = [
     title: 'Extincteurs',
     category: 'R-1',
     loc: 'R-1',
-    img: '/images/item-1.jpeg',
+    img: '/images/Bat-1 extincteurs.jpg',
   },
   {
     id: 9,
     title: 'Détecteurs',
     category: 'R-1',
     loc: 'R-1',
-    img: '/images/item-7.jpeg',
+    img: '/images/Bat-1 DAI.jpg',
   },
   {
     id: 10,
