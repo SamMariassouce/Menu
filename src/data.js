@@ -89,7 +89,7 @@ const menu = [
     title: 'Localisation',
     category: 'R+1',
     loc: 'R+1',
-    img: '/images/item-10.jpeg',
+    img: '/images/Bat 1.jpg',
   },
   {
     id: 14,
@@ -110,7 +110,7 @@ const menu = [
     title: 'Localisation',
     category: 'R+2',
     loc: 'R+2',
-    img: '/images/item-5.jpeg',
+    img: '/images/Bat2.jpg',
   },
   {
     id: 17,
@@ -145,7 +145,7 @@ const menu = [
     title: 'Détecteurs',
     category: 'R+3',
     loc: 'R+3',
-    img: '/images/item-6.jpeg',
+    img: '/images/Bat3 Dai.jpg',
   },
   {
     id: 22,
