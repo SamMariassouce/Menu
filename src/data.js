@@ -32,14 +32,14 @@ const menu = [
     title: 'Extincteurs',
     category: 'Evasan',
     loc: 'Evasan',
-    img: '/images/item-5.jpeg',
+    img: '/images/Evasan Extincteurs.jpg',
   },
   {
     id: 6,
     title: 'Détecteurs',
     category: 'Evasan',
     loc: 'Evasan',
-    img: '/images/item-6.jpeg',
+    img: '/images/Evasan Dai.jpg',
   },
   {
     id: 7,
@@ -82,7 +82,7 @@ const menu = [
     category: 'RDC',
     loc: 'RDC',
 
-    img: '/images/item-3.jpeg',
+    img: '/images/Bat 0 Dai.jpg',
   },
   {
     id: 13,
