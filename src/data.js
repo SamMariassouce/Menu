@@ -103,7 +103,7 @@ const menu = [
     title: 'Détecteurs',
     category: 'R+1',
     loc: 'R+1',
-    img: '/images/item-9.jpeg',
+    img: '/images/Bat 1 Dai.jpg',
   },
   {
     id: 16,
