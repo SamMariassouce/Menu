@@ -74,7 +74,7 @@ const menu = [
     title: 'Extincteurs',
     category: 'RDC',
     loc: 'RDC',
-    img: '/images/item-9.jpeg',
+    img: '/images/item-1.jpeg',
   },
   {
     id: 12,
@@ -117,7 +117,7 @@ const menu = [
     title: 'Extincteurs',
     category: 'R+2',
     loc: 'R+2',
-    img: '/images/item-8.jpeg',
+    img: '/images/item-3.jpeg',
   },
   {
     id: 18,
@@ -138,7 +138,7 @@ const menu = [
     title: 'Extincteurs',
     category: 'R+3',
     loc: 'R+3',
-    img: '/images/item-8.jpeg',
+    img: '/images/item-4.jpeg',
   },
   {
     id: 21,
